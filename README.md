@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi, I'm Pedro Sousa 👋
+
+### Welcome to my profile!
+
+Here you can see some of my work and challenges i've done
+
+- 🌱 I'm currently learing react
 
 <!--
 **pmasousa/pmasousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
