@@ -4,7 +4,11 @@
 
 Here you can see some of my work and challenges i've done
 
+- 📍 I live in Portugal
+- 🎓 I study Computer Science in IST
 - 🌱 I'm currently learing react
+
+[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/pedro-sousa-077372277/)
 
 <!--
 **pmasousa/pmasousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
