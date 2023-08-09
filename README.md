@@ -2,11 +2,11 @@
 
 ### Welcome to my profile!
 
-Here you can see some of my work and challenges i've done
+Here you can see some of the work and the challenges I've done
 
 - 📍 I live in Portugal
-- 🎓 I study Computer Science in IST
-- 🌱 I'm currently learing react
+- 🎓 I study Computer Science at IST
+- 🌱 I'm currently learning react
 
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/pedro-sousa-077372277/)
 
